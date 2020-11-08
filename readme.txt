@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.org/dipankardipu/simple-plugin.svg?branch=master)](https://travis-ci.org/dipankardipu/simple-plugin)
+
+
 === Sample Plugin ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://example.com/

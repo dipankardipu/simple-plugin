@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "jaschilz/php-coverage-badger": "^2.0",
+        "phpunit/php-code-coverage": "^9.2"
+    }
+}

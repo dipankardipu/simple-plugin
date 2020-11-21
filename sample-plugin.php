@@ -24,3 +24,5 @@ function our_shortcode_handler ( $atts, $content ) {
     return $content .
              "<font style='font-size:24px; color: #a61f38;'>Added by our-shortcode!</font>";
 }
+
+require 'inc/sample-plugin.php';

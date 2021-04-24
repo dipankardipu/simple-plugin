@@ -26,4 +26,3 @@ function our_shortcode_handler ( $atts, $content ) {
 }
 
 require 'inc/sample-plugin.php';
-sdfsdf

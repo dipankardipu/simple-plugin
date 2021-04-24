@@ -3,7 +3,7 @@
  * Plugin Name:     Sample Plugin
  * Plugin URI:      PLUGIN SITE HERE
  * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
+ * Author:          Dipankar Biswas
  * Author URI:      YOUR SITE HERE
  * Text Domain:     sample-plugin
  * Domain Path:     /languages
